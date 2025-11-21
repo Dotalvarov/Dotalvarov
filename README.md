@@ -1,4 +1,4 @@
-<p align="left">Soy Daniel Otálvaro Valencia, estudiante de desarrollo de software en Colombia, enfocado en construir una base sólida en programación y desarrollar proyectos funcionales.</p>
+<p align="left">me llamo Daniel Otálvaro Valencia tengo 15 años, estoy estudiando desarrollo de software en una media tenica con la institución universitaria Pascual Bravo, esoty enfocado en construir una base sólida en programación y desarrollar proyectos funcionales.</p>
 
 ###
 
