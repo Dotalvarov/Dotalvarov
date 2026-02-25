@@ -1,58 +1,98 @@
+<h1 align="left">Daniel Otálvaro Valencia</h1>
+
 <p align="left">
-Me llamo <strong>Daniel Otálvaro Valencia</strong>, tengo 16 años y actualmente estudio 
-Desarrollo de Software en una media técnica con la Institución Universitaria Pascual Bravo. 
-Estoy enfocado en construir una base sólida en programación y desarrollar proyectos funcionales que resuelvan problemas reales.
+Tengo 16 años y actualmente estudio Desarrollo de Software en la media técnica en alianza con la 
+Institución Universitaria Pascual Bravo.
 </p>
 
-###
+<p align="left">
+Estoy enfocado en construir una base sólida en programación y desarrollar proyectos funcionales 
+que resuelvan problemas reales. Me interesa entender cómo funcionan los sistemas por dentro, 
+no solo hacer que se vean bien.
+</p>
+
+---
 
 <h2 align="left">Sobre mí</h2>
 
 <p align="left">
-Actualmente estudio desarrollo web con <strong>HTML, CSS y JavaScript</strong>, 
-y estoy ampliando mis conocimientos en <strong>Python, PHP y SQL</strong>.
+Trabajo principalmente con HTML, CSS y JavaScript para el desarrollo web. 
+Actualmente estoy ampliando mis conocimientos en PHP, Python y SQL para fortalecer 
+mi perfil backend.
 </p>
 
 <p align="left">
-Me interesa fortalecer mi lógica de programación, mejorar mis habilidades en backend 
-y seguir construyendo proyectos cada vez más completos y estructurados.
+Busco mejorar constantemente mi lógica de programación, la estructura de mis proyectos 
+y la forma en que organizo el código. Me interesa construir aplicaciones completas 
+que tengan un propósito real.
 </p>
 
-###
+---
 
 <h2 align="left">Proyectos</h2>
 
-<h3 align="left">🎮 Code Masters</h3>
+<h3 align="left">Code Masters</h3>
+
 <p align="left">
-Juego educativo desarrollado en equipo (3 integrantes) utilizando HTML, CSS y JavaScript. 
-Permite a los estudiantes repasar y aprender conceptos de Scratch, Micro:bit y números binarios 
-mediante dinámicas interactivas.
-<br><br>
-🔹 Aprendizajes: trabajo en equipo, estructura de proyectos web y lógica interactiva.
+Juego educativo desarrollado en equipo (3 integrantes) utilizando HTML, CSS y JavaScript.
+El objetivo del proyecto es ayudar a estudiantes a reforzar conceptos como Scratch, 
+Micro:bit y números binarios a través de dinámicas interactivas.
 </p>
 
-<h3 align="left">🏋️ Deportia</h3>
 <p align="left">
-Software desarrollado para un centro de alto rendimiento deportivo. 
-El sistema permite gestionar usuarios, personal y finanzas mediante una base de datos estructurada.
-<br><br>
-👨‍💻 Mi rol: desarrollo del frontend.<br>
-🛠 Backend desarrollado por mi hermano.
-<br><br>
-🔹 Aprendizajes: conexión entre interfaz y base de datos, organización de sistemas administrativos.
+Mi aporte estuvo enfocado en la estructura del frontend y la implementación de lógica 
+interactiva con JavaScript.
 </p>
 
-<h3 align="left">🏆 Sistema Institucional de Interclases (En desarrollo)</h3>
 <p align="left">
-Software enfocado en digitalizar la gestión de torneos deportivos institucionales 
-(fútbol, voleibol y baloncesto). Permitirá administrar tablas de posiciones y registrar partidos.
-<br><br>
-📚 Tecnologías en aprendizaje: PHP y MySQL.
-<br><br>
-🔹 Objetivo: fortalecer mi lógica backend y el manejo de bases de datos relacionales.
+Este proyecto me permitió fortalecer el trabajo en equipo, la organización de archivos 
+y la comprensión del DOM.
 </p>
 
-###
+---
+
+<h3 align="left">Deportia</h3>
+
+<p align="left">
+Sistema web desarrollado para digitalizar la gestión administrativa y financiera 
+de un centro deportivo que anteriormente manejaba su información en Excel y registros físicos.
+</p>
+
+<p align="left">
+El sistema incluye registro y login con control de roles, gestión de usuarios, 
+historial médico, gestión del personal y un resumen financiero mensual.
+</p>
+
+<p align="left">
+Yo desarrollé completamente el frontend utilizando HTML y CSS. 
+El backend fue desarrollado en PHP.
+</p>
+
+<p align="left">
+Este proyecto me ayudó a comprender mejor cómo se conecta una interfaz con una base de datos 
+y cómo se estructuran sistemas administrativos con distintos niveles de acceso.
+</p>
+
+---
+
+<h3 align="left">Sistema Institucional de Interclases (En desarrollo)</h3>
+
+<p align="left">
+Proyecto enfocado en digitalizar la gestión de torneos deportivos institucionales 
+como fútbol, voleibol y baloncesto.
+</p>
+
+<p align="left">
+Permitirá registrar equipos, administrar tablas de posiciones y guardar resultados 
+de los partidos.
+</p>
+
+<p align="left">
+Actualmente lo estoy desarrollando para fortalecer mi lógica backend y el manejo 
+de bases de datos relacionales con PHP y MySQL.
+</p>
+
+---
 
 <h2 align="left">Tecnologías</h2>
 
@@ -63,4 +103,9 @@ Software enfocado en digitalizar la gestión de torneos deportivos institucional
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+</div>
