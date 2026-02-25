@@ -12,6 +12,10 @@ También estoy en proceso de aprendizaje de <strong>Python, PHP y SQL</strong>, 
 </p>
 
 <p align="left">
+Además, cuento con conocimientos semi avanzados en <strong>C++</strong>, desarrollando ejercicios lógicos y fortaleciendo mi capacidad de resolución de problemas y pensamiento estructurado.
+</p>
+
+<p align="left">
 Mi objetivo es seguir avanzando en mi formación, crear proyectos más completos y continuar creciendo como desarrollador.
 </p>
 
