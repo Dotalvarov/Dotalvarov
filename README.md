@@ -1,6 +1,6 @@
 <p align="left">
 Me llamo <strong>Daniel Otálvaro Valencia</strong>, tengo 16 años y soy <strong>programador junior</strong> con un año de experiencia en programación. 
-Actualmente estudio Desarrollo de Software en una media técnica en convenio con la Institución Universitaria Pascual Bravo.
+Actualmente estudio Desarrollo de Software en una media técnica con la Institución Universitaria Pascual Bravo.
 Estoy enfocado en construir una base sólida en programación y en desarrollar proyectos funcionales que fortalezcan mis habilidades técnicas.
 </p>
 
