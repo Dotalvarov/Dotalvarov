@@ -15,6 +15,13 @@ También estoy en proceso de aprendizaje de <strong>Python, PHP y SQL</strong>, 
 Mi objetivo es seguir avanzando en mi formación, crear proyectos más completos y continuar creciendo como desarrollador.
 </p>
 
+<h2 align="left">Proyectos</h2>
+
+<p align="left">
+He desarrollado proyectos académicos y personales enfocados en la práctica del desarrollo web, aplicando estructura, diseño y lógica de programación. 
+En cada proyecto busco mejorar la organización del código, la funcionalidad y la experiencia del usuario, fortaleciendo progresivamente mis habilidades como desarrollador.
+</p>
+
 <h2 align="left">Tecnologías</h2>
 
 <div align="left">
